@@ -1,0 +1,14 @@
+<html>
+<head><title>Datos del postre No.1</title></head>
+<body background="postresfondo1.jpg">
+<marquee direction="right"  scrolldelay="100">
+<h1 align="center"><font color="yellow">Postre No.2</h1></marquee>
+<hr color="red" size="10" width="20%">
+<h1>
+<center><font color="orange">Mole de platanos</h1>
+<center><img src="Mole.gif">
+<font color="blue"><h1>Precio Q 20.00
+</center>
+<a href="postres.html"><img src="atras.jpg" align="left"></a>
+</body>
+</html>
